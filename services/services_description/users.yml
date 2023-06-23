@@ -1,0 +1,7 @@
+json_users:
+  method: GET
+  endpoint: "/users"
+  queryparams: ""
+  headers: {'Content-Type': 'application/json'}
+  payload: ""
+  target_url: "https://jsonplaceholder.typicode.com"
